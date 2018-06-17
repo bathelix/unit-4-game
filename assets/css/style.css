@@ -1,0 +1,63 @@
+header {
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    background-color: rgb(202, 193, 193); 
+    padding: 35px; 
+    border-style: solid;
+    border-width: 10px;   
+    border-color: rgb(105, 101, 101);
+}
+
+body {
+    text-align: center;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url(https://images.pexels.com/photos/326240/pexels-photo-326240.jpeg?auto=compress&cs=tinysrgb&h=350);
+    background-size: 1500px;
+    color: purple;
+    background-repeat: no-repeat;
+}
+.crystal-image {
+    width: 200px;
+    height: 200px;
+}
+
+.instruct {
+    width: 600px;        
+}
+
+ul {
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-justify: left;
+    background-color: rgb(180, 177, 170);
+}
+
+.container {     
+    display: flex;
+    justify-content: center;      
+}
+
+.wrapper {
+    padding-top: 25px;      
+}
+
+h1, h2 {
+    color: purple;
+}
+
+.winner {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-size: 3.5em;
+}
+
+.loser {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    font-size: 3.3em;
+}
+
+
+.btnSlideTog {
+    
+}
